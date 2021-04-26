@@ -87,7 +87,7 @@ function draw() {
   monster.display();
 
 }
-strokeWeight(0);
+strokeWeight(0){;
 
 }
 
