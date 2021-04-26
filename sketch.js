@@ -87,9 +87,8 @@ function draw() {
   monster.display();
 
 }
-strokeWeight(0){;
+strokeWeight(0);
 
-}
 
 function mouseDragged() {
   Matter.Body.setPosition(hero.body,{x:mouseX,y:mouseY});
